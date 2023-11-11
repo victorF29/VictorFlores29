@@ -10,6 +10,9 @@
  
 - <b>Analyzing network traffic with Wireshark</b>
   - [Wireshark](https://github.com/victorF29/Wireshark)
+ 
+- <b>Detecting rootkits with Rootkit Hunter</b>
+  - [RootkitHunter](https://github.com/victorF29/Rootkit-Hunter)
 
   
 
